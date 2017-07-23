@@ -13,6 +13,17 @@
     </style> 
 </head>
 <body>
-<!--Write your PHP Script here-->
+<?php
+$color=0;
+for ($row=0;$row<5;$row++){
+    $color=51*$row; //first square is black
+    for ($col=0;$col<10;$col++){
+        echo "<div style=\"background-color:rgb($color,$color,$color);\"</div>";
+        $color+=5;
+    }
+    echo "<br /";
+}
+
+?>
 </body>
 </html>
