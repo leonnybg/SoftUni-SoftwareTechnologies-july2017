@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L23-Numbers", "L23CSharp-ASPNet\L23-Numbers.csproj", "{1111E2BF-7853-410B-9B21-C7BF3F2A3F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOList", "TODOList\TODOList.csproj", "{4A139646-1A00-42A8-B24C-389C1B64206B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1111E2BF-7853-410B-9B21-C7BF3F2A3F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1111E2BF-7853-410B-9B21-C7BF3F2A3F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1111E2BF-7853-410B-9B21-C7BF3F2A3F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1111E2BF-7853-410B-9B21-C7BF3F2A3F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A139646-1A00-42A8-B24C-389C1B64206B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A139646-1A00-42A8-B24C-389C1B64206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A139646-1A00-42A8-B24C-389C1B64206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A139646-1A00-42A8-B24C-389C1B64206B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
